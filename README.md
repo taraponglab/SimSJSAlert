@@ -12,7 +12,7 @@ Faculty of Health Sciences, College of Natural Sciences, Can Tho University, Vie
 
 Source codes and dataset is available in this repository.
 
-**A publicly accessible web server for Stevens–Johnson Syndrome Risk prediction is available at: https://simsjsalert.streamlit.app/**
+**A publicly accessible web server for Stevens–Johnson Syndrome Risk prediction is available at: https://sim-sjs-alert.streamlit.app/**
 
 #### Package version
 Rdkit: v.2024.9.4; Scikit-learn: v1.5.2; Tensorflow: v2.17.0; Numpy: v.1.26.4.
