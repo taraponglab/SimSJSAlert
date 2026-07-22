@@ -1,8 +1,8 @@
-# Multimodal Deep Learning for Generating Potential Anti-Dengue Peptides
+# SimSJSAlert: A Similarity-Augmented Multi-View Learning Framework with Scaffold Alerts for Drug-Induced Stevens–Johnson Syndrome Risk Assessment
 
-![Abstract Graphic](graphic_ADPs.png)
+![Abstract Graphic](graphic.png)
 
-#### Huynh Anh Duy*, Tarapong Srisongkram** 
+#### Huynh Anh Duy*, Sastiya Kampaengsri**, Supreeya Paiboon**, Tarapong Srisongkram** 
 
 *Graduate School in the Program of Research and Development in Pharmaceuticals, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. 
 
@@ -14,12 +14,8 @@ Source codes and dataset is available in this repository.
 
 **A publicly accessible web server for ADP prediction is available at: https://antidengue-peptide-predictor.streamlit.app**
 
-**The article has been published in _ACS Omega_ and is available at: https://pubs.acs.org/doi/10.1021/acsomega.5c03510**
-
 #### Package version
 Rdkit: v.2024.9.4; Scikit-learn: v1.5.2; Tensorflow: v2.17.0; Numpy: v.1.26.4.
-
-BioPython: v1.82; STREME (Sensitive, Thorough, Rapid, Enriched Motif Elicitation) v5.5.7; AlphaFold v3.0; py3Dmol 2.1.0.
 
 #### License
 
