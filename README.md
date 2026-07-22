@@ -6,20 +6,20 @@
 
 *Graduate School in the Program of Research and Development in Pharmaceuticals, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. 
 
-Department of Health Sciences, College of Natural Sciences, Can Tho University, Vietnam. (huynhanhduy.h@kkumail.com, haduy@ctu.edu.vn)
+Faculty of Health Sciences, College of Natural Sciences, Can Tho University, Vietnam. (huynhanhduy.h@kkumail.com, haduy@ctu.edu.vn)
 
 **Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (tarasri@kku.ac.th)
 
 Source codes and dataset is available in this repository.
 
-**A publicly accessible web server for ADP prediction is available at: https://antidengue-peptide-predictor.streamlit.app**
+**A publicly accessible web server for Stevens–Johnson Syndrome Risk prediction is available at: https://SimSJSAlert.streamlit.app**
 
 #### Package version
 Rdkit: v.2024.9.4; Scikit-learn: v1.5.2; Tensorflow: v2.17.0; Numpy: v.1.26.4.
 
 #### License
 
-Copyright (c) [2025] [Dr. Tarapong Srisongkram]
+Copyright (c) [2026] [Dr. Tarapong Srisongkram]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
