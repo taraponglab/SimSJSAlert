@@ -1,6 +1,6 @@
 # SimSJSAlert: A Similarity-Augmented Multi-View Learning Framework with Scaffold Alerts for Drug-Induced Stevens–Johnson Syndrome Risk Assessment
 
-![Abstract Graphic](graphic.pdf)
+![Abstract Graphic](graphic.png)
 
 #### Huynh Anh Duy*, Sastiya Kampaengsri**, Supreeya Paiboon**, Tarapong Srisongkram** 
 
